@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+title: Building your path to Self-Actualization
 ---
 
