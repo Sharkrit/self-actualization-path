@@ -12,6 +12,7 @@ _Unlock Your Potential, Transform Your Journey_
 
 </header>
 
+
 ## Course Overview: :star_struck:
 This course combines the principles of Neuro Linguistic Programming (NLP) and Making the Impact to help you build a strong foundation for your self-actualization journey. Through a series of interactive modules and practical exercises, you will gain a deep understanding of yourself, enhance your communication skills, and learn techniques to create a lasting impact in various aspects of your life. By the end of this course, you will have the tools and knowledge to navigate personal and professional challenges, align your actions with your goals, and unlock your true potential.
 
@@ -86,6 +87,26 @@ Course Structure:
 9.4 Action planning for continuous development
 
 _Note: This course outline is a general guide and can be tailored to suit the specific needs and goals of participants._
+
+<!--
+  <<< Author notes: Step 5 >>>
+  Start this step by acknowledging the previous step.
+  Define terms and link to docs.github.com.
+-->
+
+## Step 5: Merge your pull request
+
+_Nice work, friend :heart:! People will be reading your blog in no time!_
+
+You can now [merge](https://docs.github.com/en/get-started/quickstart/github-glossary#merge) your pull request!
+
+### :keyboard: Activity: Merge your changes
+
+1. Merge your changes from `my-pages` into `main`. If you created the pull request in step 2, just open that PR and click on **Merge pull request**. If you did not create the pull request earlier, you can do it now by following the instructions in step 2.
+1. (optional) Delete the branch `my-pages`.
+1. Wait about 20 seconds then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
+
+
 <footer>
 
 <!--
